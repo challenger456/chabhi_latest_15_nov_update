@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "769550002066",
+    "project_id": "chabhi-10e5d",
+    "storage_bucket": "chabhi-10e5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769550002066:android:919a72e9b5f8ff8dcac34b",
+        "android_client_info": {
+          "package_name": "com.chabhi.abhi_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769550002066-5so1ffr78bvgct77o5pe1s7gcgtevkab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chabhi.abhi_flutter",
+            "certificate_hash": "0a37b4f0efe294190ccef9efbfa1627ba60299fd"
+          }
+        },
+        {
+          "client_id": "769550002066-upbd0nrosoklncs4aucccah5c9omfju9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chabhi.abhi_flutter",
+            "certificate_hash": "2884327e22319d942c4a00b248a7b569aa679707"
+          }
+        },
+        {
+          "client_id": "769550002066-i964fce1ns06kn0f1usokjegka0i4p9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZ541XO27LS22yLUa0pd_jbYdt9RC-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769550002066-cbmkgffkhts6th1sm7nu79ld060bjv04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769550002066-fr84afjhoe52cre4hs993qt19vn6rq8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chabhi.abhiflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769550002066:android:cea6f233b52e0621cac34b",
+        "android_client_info": {
+          "package_name": "com.chabhi.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769550002066-3fesokgpfspilnujm4jkvr44kblvmjns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chabhi.admin",
+            "certificate_hash": "4c88e8d12fa2b5a833f8471fb9527f8dc85c63be"
+          }
+        },
+        {
+          "client_id": "769550002066-d6um739dk85f3al9mev6o0eeip5n0fef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chabhi.admin",
+            "certificate_hash": "78d777e1e247efbcd96e7122675baa37f132a850"
+          }
+        },
+        {
+          "client_id": "769550002066-i964fce1ns06kn0f1usokjegka0i4p9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZ541XO27LS22yLUa0pd_jbYdt9RC-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769550002066-cbmkgffkhts6th1sm7nu79ld060bjv04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769550002066-fr84afjhoe52cre4hs993qt19vn6rq8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chabhi.abhiflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769550002066:android:ec9549d1c20782eecac34b",
+        "android_client_info": {
+          "package_name": "com.chabhi.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769550002066-9goc374be2kjc4qv2o0cm6okfa6jqu5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chabhi.provider",
+            "certificate_hash": "d20297735fa7f7e564813c1452cc02e7fa36f1ac"
+          }
+        },
+        {
+          "client_id": "769550002066-hmf9mq60elh007r991u18f08m0i39gj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chabhi.provider",
+            "certificate_hash": "4c88e8d12fa2b5a833f8471fb9527f8dc85c63be"
+          }
+        },
+        {
+          "client_id": "769550002066-i964fce1ns06kn0f1usokjegka0i4p9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZ541XO27LS22yLUa0pd_jbYdt9RC-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769550002066-cbmkgffkhts6th1sm7nu79ld060bjv04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769550002066-fr84afjhoe52cre4hs993qt19vn6rq8i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chabhi.abhiflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
